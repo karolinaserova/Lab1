@@ -1,3 +1,3 @@
 ![Star](test/star.png)
 
-hallo Welt
+Das ist die README :)
